@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrescriptionCalculator", "PrescriptionCalculator\PrescriptionCalculator.csproj", "{B8FA7314-1B75-4A4C-9263-E39857B03875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrescriptionCalculator.Core", "PrescriptionCalculator.Core\PrescriptionCalculator.Core.csproj", "{D3003DDF-56EF-4265-A8E4-D0FB4F3ED0A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FA7314-1B75-4A4C-9263-E39857B03875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FA7314-1B75-4A4C-9263-E39857B03875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FA7314-1B75-4A4C-9263-E39857B03875}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8FA7314-1B75-4A4C-9263-E39857B03875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FA7314-1B75-4A4C-9263-E39857B03875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FA7314-1B75-4A4C-9263-E39857B03875}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D3003DDF-56EF-4265-A8E4-D0FB4F3ED0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3003DDF-56EF-4265-A8E4-D0FB4F3ED0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3003DDF-56EF-4265-A8E4-D0FB4F3ED0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3003DDF-56EF-4265-A8E4-D0FB4F3ED0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0666F1EA-CE36-4786-9F29-D0FD072626DD}
+	EndGlobalSection
+EndGlobal
